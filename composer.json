@@ -24,8 +24,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "~8.3",
-    "eloom/module-core": "dev-main"
+    "php": "~8.3"
   },
   "license": [
     "OSL-3.0",
